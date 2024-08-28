@@ -5,3 +5,5 @@ NPM : 2306203854
 Kelas : PBP B
 
 Hobi : Menonton
+
+Jurusan : Sistem Informasi
